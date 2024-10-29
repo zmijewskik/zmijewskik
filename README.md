@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 👋 I'm Krzysztof, developer from Poland.</h1>
 
-- 🌱 I’m currently learning: Web Development
+- 🔭 Frontend developer / Software engineer
+- 🌱 Always learning!
 - 📫 How to reach me: kzmijewski@proton.me
 
 <!--
